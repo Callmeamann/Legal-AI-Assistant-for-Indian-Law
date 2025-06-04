@@ -124,4 +124,4 @@ Navigate to <http://localhost:3000>
 
 ---
 
-*Prepared by <Your Name>* 
+*Prepared by <Aman Gusain aka Callmeamann>* 
